@@ -1,2 +1,2 @@
-# InvitacionPropaganda
-Invitaciones para realizar propaganda
+# InvitacionBoda
+Modelo de invitación de Boda.
